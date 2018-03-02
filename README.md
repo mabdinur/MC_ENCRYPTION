@@ -20,4 +20,5 @@ adjacent arduinos and then send message accordingly
 This project contains a communication protocol that encrypts in Morse code signals using
 symmetric-key cryptography, and it transmit data to connected ardunios using internal timers and interrupts
 
-![alt text](https://https://github.com/mabdinur/MC_ENCRYPTION/edit/master/schematic.png)
+
+![alt text](https://https://github.com/mabdinur/MC_ENCRYPTION/edit/master/Circuit schematic.png)
