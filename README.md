@@ -1,7 +1,7 @@
 # MorseCode
-#This project contains a script that must be uploaded to an arduino where it will then be executed 
-Project   a circuit with two buttons connected in series are used to input data into the system
-- Schematic of the circuit used is below
+# This project contains a script that must be uploaded to an arduino where it will then be executed 
+
+- Schematic of the circuit used with the adrduino is shown below
 - The time between button presses is encoded as a 1 or 0
 - each "message" starts with a number id to identify the arduino 
 recieving the message from the button inputs
